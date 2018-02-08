@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-/* Praneet Nandan 1711096 */
+/* Loknath Behera 1711080*/
 
 /* Node class that defines what a node is shaped like */
 class Node
